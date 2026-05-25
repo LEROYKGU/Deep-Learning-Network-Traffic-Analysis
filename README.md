@@ -235,8 +235,7 @@ Deep-Learning-Network-Traffic-Analysis/
 ├── reports/
 │   └── rapport_comparatif_Traffic_Analysis.docx
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 ---
 # Installation
