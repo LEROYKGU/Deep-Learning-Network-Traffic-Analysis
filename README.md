@@ -12,8 +12,10 @@ The project compares multiple neural network architectures combining:
 * GRU recurrent layers
 * Temporal convolution (Conv1D)
 * Hybrid sequence modeling
-
 The study was conducted on a real-world dataset containing more than 2.4 million network traffic windows, making this project representative of industrial-scale sequential learning problems.
+Data URL :
+´´´bash  https://www.nature.com/articles/s41597-025-04876-2?utm_source=perplexity
+´´´
 ---
 # Project Objectives
 
